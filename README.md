@@ -1,35 +1,253 @@
-<h1 align="center">Hi 👋, I'm Kaushal Vishwakarma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal-vishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-vishwakarma" /> </p>
+# 👋 Hi, I'm Kaushal Vishwakarma
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushal-vishwakarma" alt="kaushal-vishwakarma" /></a> </p>
+### 💻 BTech CSE Student | Full-Stack Developer in Progress | Problem Solver
 
-- 🔭 I’m currently working on [PrintXData](https://github.com/kaushal-vishwakarma/data-structure-lab)
-
-- 🌱 I’m currently learning **App development and Web development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/kaushal-vishwakarma/My-portfolio](https://github.com/kaushal-vishwakarma/My-portfolio)
-
-- 💬 Ask me about **Full stack Dev**
-
-- 📫 How to reach me **kaushalrohai8888@gmail.com**
-
-- ⚡ Fun fact **💡 I enjoy turning ideas into code and learning something new every day**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kaushal-vishwakarma-ab17a8376/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaushal-vishwakarma-ab17a8376/" height="30" width="40" /></a>
-<a href="https://fb.com/kaushal vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaushal vishwakarma" height="30" width="40" /></a>
-<a href="https://instagram.com/kaushal_84097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaushal_84097" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/computer hack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="computer hack" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/kaushal-vishwakarma">
+    <img src="https://komarev.com/ghpvc/?username=kaushal-vishwakarma&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/kaushal-vishwakarma?tab=followers">
+    <img src="https://img.shields.io/github/followers/kaushal-vishwakarma?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p>
+  <a href="mailto:kaushalrohai8888@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kaushal-vishwakarma-ab17a8376/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushal-vishwakarma&show_icons=true&locale=en&layout=compact" alt="kaushal-vishwakarma" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushal-vishwakarma&show_icons=true&locale=en" alt="kaushal-vishwakarma" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushal-vishwakarma&" alt="kaushal-vishwakarma" /></p>
+## 👨‍💻 About Me
+
+I'm **Kaushal Vishwakarma**, a Computer Science Engineering student who enjoys building projects, solving programming problems, and continuously improving my technical skills.
+
+🎓 Currently pursuing **BTech in Computer Science & Engineering**
+💻 Interested in **Web Development, Full-Stack Development & Software Engineering**
+🐍 Working with **Python & C** and learning modern web technologies
+⚛️ Exploring **React, JavaScript and backend development**
+🧠 Practicing **Data Structures & Algorithms**
+🚀 Building projects to turn ideas into practical applications
+📚 Currently focused on improving my **coding, problem-solving and development skills**
+
+> 💡 **My goal:** Learn by building, improve every day, and become a strong software developer.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,javascript" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" />
+</p>
+
+### 🗄️ Database & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgresql,mongodb" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino" />
+</p>
+
+> 📌 Technologies marked above represent technologies I have worked with, explored, or am currently learning.
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/kaushal-vishwakarma/data-structure-lab">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaushal-vishwakarma&repo=data-structure-lab&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/kaushal-vishwakarma/My-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaushal-vishwakarma&repo=My-portfolio&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+### 🖨️ PrintX — Smart Printing Kiosk
+
+A project concept focused on making printing more convenient through a smart automated printing kiosk.
+
+**Planned / explored technologies:**
+
+`React` • `Node.js` • `Express` • `PostgreSQL` • `Prisma` • `JWT` • `Socket.IO`
+
+### 🌐 My Portfolio
+
+A personal portfolio website showcasing my projects, skills, learning journey and development work.
+
+👉 **[View My Portfolio](https://github.com/kaushal-vishwakarma/My-portfolio)**
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaushal-vishwakarma&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal-vishwakarma&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kaushal-vishwakarma&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushal-vishwakarma&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+
+</div>
+
+---
+
+# 📅 GitHub Contribution Graph
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/0e75b6/kaushal-vishwakarma" alt="Kaushal Vishwakarma GitHub Contribution Graph"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kaushal-vishwakarma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# 📌 GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaushal-vishwakarma&theme=tokyonight" alt="GitHub Profile Details"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaushal-vishwakarma&theme=tokyonight" alt="Repositories per Language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaushal-vishwakarma&theme=tokyonight" alt="Most Commit Language"/>
+
+</div>
+
+---
+
+# 💡 What I'm Currently Learning
+
+```text
+📌 Data Structures & Algorithms
+📌 JavaScript
+📌 React.js
+📌 Backend Development
+📌 Database Management
+📌 Full-Stack Development
+📌 Problem Solving
+📌 Git & GitHub
+```
+
+---
+
+# 🎯 2026 Goals
+
+* [ ] Improve Data Structures & Algorithms
+* [ ] Build production-level web applications
+* [ ] Strengthen JavaScript & React skills
+* [ ] Learn backend development deeply
+* [ ] Build and deploy full-stack projects
+* [ ] Contribute to open-source projects
+* [ ] Improve problem-solving skills
+* [ ] Prepare for software engineering placements
+
+---
+
+# 📚 My Development Journey
+
+```text
+Learn
+  ↓
+Practice
+  ↓
+Build
+  ↓
+Debug
+  ↓
+Improve
+  ↓
+Repeat 🔁
+```
+
+> 🚀 **Small progress every day becomes big progress over time.**
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:kaushalrohai8888@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kaushal-vishwakarma-ab17a8376/">
+  <img src="https://img.shields.io/badge/LinkedIn-Kaushal%20Vishwakarma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/kaushal_84097/">
+  <img src="https://img.shields.io/badge/Instagram-@kaushal__84097-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kaushal-vishwakarma">
+  <img src="https://img.shields.io/badge/GitHub-kaushal--vishwakarma-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Code. Learn. Build. Repeat. 🚀
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
